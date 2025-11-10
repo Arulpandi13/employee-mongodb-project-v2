@@ -8,7 +8,7 @@ public class TechLambdasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TechLambdasApplication.class, args);
-		System.out.println("Mythilli oru lusu");
+		System.out.println("Nirmal oru kirukan");
 	}
 
 }
